@@ -1,0 +1,18 @@
+# transformers
+transformers
+gradio
+torch
+scipy
+tqdm
+pyyaml
+ftfy
+pandas
+numpy
+json
+requests
+configparser
+geopy
+spacy
+spacy-transformers
+streamlit
+https://huggingface.co/Madhana/en_pipeline/resolve/main/en_pipeline-any-py3-none-any.whl
