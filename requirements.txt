@@ -8,7 +8,6 @@ pyyaml
 ftfy
 pandas
 numpy
-json
 requests
 configparser
 geopy
