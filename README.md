@@ -1,7 +1,6 @@
  # ReliefNer App
  ## Overview
 Purpose: Automate extraction of crucial information from chat apps for disaster relief.
-
 Inspiration: Based on the work supporting Turkey-Syria earthquake relief operations.
  ## Features
 Custom Text Classifier: Distinguishes between disaster-related and random messages.
