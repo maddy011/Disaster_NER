@@ -4,7 +4,7 @@ Purpose: Automate extraction of crucial information from chat apps for disaster 
 
 Inspiration: Based on the work supporting Turkey-Syria earthquake relief operations.
 
-Detailed Report: Check out [Relif_NER]['https://wandb.ai/madhana/Named_Entity_Recognition/reports/Train-a-Custom-Text-Classifier-and-NER-Model-using-HuggingFace-and-SpaCy--Vmlldzo0MjU5MDQ0'].
+Detailed Report: Check out [Relif_NER][https://wandb.ai/madhana/Named_Entity_Recognition/reports/Train-a-Custom-Text-Classifier-and-NER-Model-using-HuggingFace-and-SpaCy--Vmlldzo0MjU5MDQ0].
  ## Features
 Custom Text Classifier: Distinguishes between disaster-related and random messages.
 
